@@ -11,6 +11,8 @@ Learning MERN Stack & Open Source Development.
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
 - React (beginner)
+- learning Node js and express js
+- Database MognoDb
 - Git & GitHub
 
 ## 🎯 Goals
