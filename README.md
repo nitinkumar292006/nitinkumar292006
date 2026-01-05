@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitin Kumar
 
-<!--
-**nitinkumar292006/nitinkumar292006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science student  
+Learning MERN Stack & Open Source Development.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- React & Node.js
+- JavaScript Projects
+- Open-Source Contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React (beginner)
+- Git & GitHub
+
+## 🎯 Goals
+- Build real-world projects
+- Contribute to Open Source
+- Prepare for GSoC
+
+
+
