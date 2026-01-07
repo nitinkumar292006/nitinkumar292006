@@ -10,6 +10,7 @@ Learning MERN Stack & Open Source Development.
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
+- TailwindCss 
 - React (beginner)
 - learning Node js and express js
 - Database MognoDb
