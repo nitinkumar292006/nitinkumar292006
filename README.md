@@ -19,7 +19,7 @@ Learning MERN Stack & Open Source Development.
 ## 🎯 Goals
 - Build real-world projects
 - Contribute to Open Source
-- Prepare for GSoC
+
 
 
 
