@@ -1,30 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
-<h3 align="center">Full Stack Web Developer | Java Developer | DSA Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Nitin Kumar
+</h1>
 
-<br>
-
-
+<h3 align="center">
+💻 Full Stack Developer • ☕ Java Developer • 🚀 DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitinkumar292006&theme=codeSTACKr&hide_border=true" height="170"/>
+Building scalable web applications while solving algorithms one problem at a time.
+</p>
+
+---
+
+##  About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+-  B.Tech CSE Student
+-  Currently learning **AI Integration, Full Stack Development & Advanced DSA**
+-  Passionate about building real-world web applications
+-  Love coding in **Java**
+-  Solving LeetCode & Codeforces regularly
+-  Goal: Become a Software Engineer at a top product company
+
+<br clear="right"/>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinkumar292006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=nitinkumar292006&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitinkumar292006&show_icons=true&theme=github_dark&hide_border=true"/>
+
 </p>
 
 
+---
 
+##  About Me
 
-I am a Computer Science student passionate about full-stack web development and problem-solving. I enjoy building modern web applications, exploring new technologies, and continuously improving my programming skills. Currently, I am focused on React, Node.js, Express.js, MongoDB, Java, Data Structures & Algorithms, and core computer science fundamentals. I believe in learning through hands-on projects and writing clean, scalable code while striving to become a better software engineer every day.
+I am a passionate Computer Science student who enjoys building modern web applications and solving challenging programming problems.
 
-# Connect with Me
+Currently focused on:
 
-<p align="left">
-<a href="https://linkedin.com/in/nitinkumar292006" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+-  Full Stack Web Development
+-  Java Development
+-  AI Integration
+-  Data Structures & Algorithms
+-  Backend Development
 
-<a href="mailto:kumarnitin87654@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I believe in **learning by building**, writing clean code, and improving every single day.
+
+---
 
 #  Tech Stack
 
@@ -34,3 +70,25 @@ I am a Computer Science student passionate about full-stack web development and 
 
 </p>
 
+---
+
+#  Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nitinkumar292006">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumarnitin87654@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
+
+## 💡 Quote
+
+> *"Consistency beats talent when talent doesn't work consistently."* 🚀
