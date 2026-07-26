@@ -12,6 +12,18 @@ Building scalable web applications while solving algorithms one problem at a tim
 
 ---
 
+##  GitHub Stats
+
+<p align="center">
+
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=nitinkumar292006&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 ##  About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -24,25 +36,6 @@ Building scalable web applications while solving algorithms one problem at a tim
 -  Goal: Become a Software Engineer at a top product company
 
 <br clear="right"/>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinkumar292006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=nitinkumar292006&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nitinkumar292006&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</p>
-
 
 ---
 
