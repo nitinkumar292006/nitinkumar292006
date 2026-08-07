@@ -39,22 +39,6 @@ Building scalable web applications while solving algorithms one problem at a tim
 
 ---
 
-##  About Me
-
-I am a passionate Computer Science student who enjoys building modern web applications and solving challenging programming problems.
-
-Currently focused on:
-
--  Full Stack Web Development
--  Java Development
--  AI Integration
--  Data Structures & Algorithms
--  Backend Development
-
-I believe in **learning by building**, writing clean code, and improving every single day.
-
----
-
 #  Tech Stack
 
 <p align="center">
