@@ -128,7 +128,9 @@ solving problems and constantly learning new technologies.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar292006&bg_color=0b0f17&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="96%">
+<h2>📊 ACTIVITY</h2>
+
+<img src="https://raw.githubusercontent.com/nitinkumar292006/nitinkumar292006/output/activity-graph.svg" width="96%">
 
 </div>
 
