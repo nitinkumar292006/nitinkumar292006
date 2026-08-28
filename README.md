@@ -128,7 +128,6 @@ solving problems and constantly learning new technologies.
 
 <div align="center">
 
-<h2>📊 ACTIVITY</h2>
 
 <img src="https://raw.githubusercontent.com/nitinkumar292006/nitinkumar292006/output/activity-graph.svg" width="96%">
 
